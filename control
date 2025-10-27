@@ -1,8 +1,0 @@
-Package: com.jtis.alert
-Name: [X2NIOS] ALERT
-Version: 1.0
- Architecture: iphoneos-arm64
-Description: ALERT
-Maintainer: JTISVN
-Author:  JTISVN
-Icon: https://jtisvn.github.io/icons/avatar.webp
